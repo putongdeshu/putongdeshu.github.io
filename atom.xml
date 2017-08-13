@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> markdown demo · PNMM</title><meta name="description" content="markdown demo - Xing Li"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="search" type="application/opensearchdescription+xml" href="http://particlenmm.org/atom.xml" title="PNMM"></head><body><div class="wrap"><header><a href="/" class="logo-link"><img src="/favicon.png" alt="logo"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">BLOG</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">ARCHIVE</a></li><li class="nav-list-item"><a href="http://weibo.com/sunchongsheng" target="_blank" class="nav-list-link">WEIBO</a></li><li class="nav-list-item"><a href="https://github.com/pinggod" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="/atom.xml" target="_self" class="nav-list-link">RSS</a></li></ul></header><main class="container"><div class="post"><article class="post-block"><h1 class="post-title">markdown demo</h1><div class="post-info">Aug 13, 2017</div><div class="post-content"><h1 id="h1-Heading-8"><a href="#h1-Heading-8" class="headerlink" title="h1 Heading 8-)"></a>h1 Heading 8-)</h1><h2 id="h2-Heading"><a href="#h2-Heading" class="headerlink" title="h2 Heading"></a>h2 Heading</h2><h3 id="h3-Heading"><a href="#h3-Heading" class="headerlink" title="h3 Heading"></a>h3 Heading</h3><h4 id="h4-Heading"><a href="#h4-Heading" class="headerlink" title="h4 Heading"></a>h4 Heading</h4><h5 id="h5-Heading"><a href="#h5-Heading" class="headerlink" title="h5 Heading"></a>h5 Heading</h5><h6 id="h6-Heading"><a href="#h6-Heading" class="headerlink" title="h6 Heading"></a>h6 Heading</h6><h2 id="Horizontal-Rules"><a href="#Horizontal-Rules" class="headerlink" title="Horizontal Rules"></a>Horizontal Rules</h2><hr>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PNMM</title>
+  <subtitle>a numerical model for rock dynamics</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://particlenmm.org/"/>
+  <updated>2017-08-13T08:56:39.000Z</updated>
+  <id>http://particlenmm.org/</id>
+  
+  <author>
+    <name>Xing Li</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown demo</title>
+    <link href="http://particlenmm.org/2017/08/13/first-post/"/>
+    <id>http://particlenmm.org/2017/08/13/first-post/</id>
+    <published>2017-08-13T08:48:39.000Z</published>
+    <updated>2017-08-13T08:56:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="h1-Heading-8"><a href="#h1-Heading-8" class="headerlink" title="h1 Heading 8-)"></a>h1 Heading 8-)</h1><h2 id="h2-Heading"><a href="#h2-Heading" class="headerlink" title="h2 Heading"></a>h2 Heading</h2><h3 id="h3-Heading"><a href="#h3-Heading" class="headerlink" title="h3 Heading"></a>h3 Heading</h3><h4 id="h4-Heading"><a href="#h4-Heading" class="headerlink" title="h4 Heading"></a>h4 Heading</h4><h5 id="h5-Heading"><a href="#h5-Heading" class="headerlink" title="h5 Heading"></a>h5 Heading</h5><h6 id="h6-Heading"><a href="#h6-Heading" class="headerlink" title="h6 Heading"></a>h6 Heading</h6><h2 id="Horizontal-Rules"><a href="#Horizontal-Rules" class="headerlink" title="Horizontal Rules"></a>Horizontal Rules</h2><hr>
 <hr>
 <hr>
 <h2 id="Typographic-replacements"><a href="#Typographic-replacements" class="headerlink" title="Typographic replacements"></a>Typographic replacements</h2><p>Enable typographer option to see result.</p>
@@ -148,4 +172,15 @@ Third paragraph of definition 2.
 <p>It converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on.</p>
 <p>*[HTML]: Hyper Text Markup Language</p>
 <h3 id="Custom-containers"><a href="#Custom-containers" class="headerlink" title="Custom containers"></a><a href="https://github.com/markdown-it/markdown-it-container" target="_blank" rel="external">Custom containers</a></h3><p>::: warning<br><em>here be dragons</em><br>:::</p>
-</div></article></div></main><footer><div class="paginator"></div><div class="copyright"><p>© 2015 - 2017 <a href="http://particlenmm.org">Xing Li</a>, powered by <a href="https://hexo.io/" target="_blank">Hexo</a> and <a href="https://github.com/pinggod/hexo-theme-apollo" target="_blank">hexo-theme-apollo</a>.</p></div></footer></div><script async src="//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" integrity="sha384-crwIf/BuaWM9rM65iM+dWFldgQ1Un8jWZMuh3puxb8TOY9+linwLoI7ZHZT+aekW" crossorigin="anonymous"></script><script>(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;e=o.createElement(i);r=o.getElementsByTagName(i)[0];e.src='//www.google-analytics.com/analytics.js';r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));ga('create',"UA-65933410-1",'auto');ga('send','pageview');</script></body></html>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;h1-Heading-8&quot;&gt;&lt;a href=&quot;#h1-Heading-8&quot; class=&quot;headerlink&quot; title=&quot;h1 Heading 8-)&quot;&gt;&lt;/a&gt;h1 Heading 8-)&lt;/h1&gt;&lt;h2 id=&quot;h2-Heading&quot;&gt;&lt;a href=&quot;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
