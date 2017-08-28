@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://particlenmm.org/"/>
-  <updated>2017-08-28T15:32:05.000Z</updated>
+  <updated>2017-08-28T15:40:52.000Z</updated>
   <id>http://particlenmm.org/</id>
   
   <author>
@@ -16,24 +16,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>copenhagen</title>
+    <title>哥本哈根</title>
     <link href="http://particlenmm.org/2017/08/29/copenhagen/"/>
     <id>http://particlenmm.org/2017/08/29/copenhagen/</id>
     <published>2017-08-28T15:29:30.000Z</published>
-    <updated>2017-08-28T15:32:05.000Z</updated>
+    <updated>2017-08-28T15:40:52.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Copenhagen, Denmark<br>2014.04.26</p>
+    <content type="html"><![CDATA[<p>哥本哈根，丹麦<br>于2014.04.26</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Copenhagen, Denmark&lt;br&gt;2014.04.26&lt;/p&gt;
+      &lt;p&gt;哥本哈根，丹麦&lt;br&gt;于2014.04.26&lt;/p&gt;
 
     
     </summary>
     
     
-      <category term="travel" scheme="http://particlenmm.org/tags/travel/"/>
+      <category term="旅行" scheme="http://particlenmm.org/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
